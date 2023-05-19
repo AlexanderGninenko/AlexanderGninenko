@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 Я занимаюсь фуллстек веб-разработкой, фронт пишу на React, бэк на Express.
-Мой стек в основном - MERN (MongoDB, Express, React, Node).
+Мой стек в основном - MERN ( ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;, ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;, ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;, ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp; ).
 Постоянно развиваюсь, смотрю различные IT каналы на YouTube, читаю документацию и черпаю новую информацию.
 
-Сейчас занимаюсь изучением Data Science, так как сфера ИИ и нейронных сетей для меня очень привлекательна.
+🌱 Сейчас занимаюсь изучением Data Science, так как сфера ИИ и нейронных сетей для меня очень привлекательна.
 
-Разработка для меня не просто вид деятельности, это моё хобби, моё времяпровождение и то, что заставляет чувствовать себя живым.
+⚡ Разработка для меня не просто вид деятельности, это моё хобби, моё времяпровождение и то, что заставляет чувствовать себя живым.
 
-Хочу освоить:
+💬 Хочу освоить:
 TypeScript, Redux (Thunk или Saga), Next.js.
 
-Хочу пощупать:
+🤔 Хочу пощупать:
 Vue или Angular
 
  #### 🔧 Мой Стек
@@ -34,6 +34,10 @@ Vue или Angular
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![CORS](https://img.shields.io/badge/-CORS-05122A?style=flat&logo=CORS)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON)&nbsp;
 ![BEM](https://img.shields.io/badge/-BEM-05122A?style=flat&logo=BEM)&nbsp;
 ![OOP](https://img.shields.io/badge/-ООП-05122A?style=flat&logo=StackShare&logoColor=green)\
